@@ -3,6 +3,7 @@ Detection Engineer | Senior Security Analyst
 Currently Working with Detection Engineering, using heavily:
 * Sigma
 * Mitre Caldera
+* Prelude Operator
 * Elastic
 * A lot of Python
 
