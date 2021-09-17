@@ -1,11 +1,4 @@
-Detection Engineer | Senior Security Analyst
-
-Currently Working with Detection Engineering, using heavily:
-* Sigma
-* Mitre Caldera
-* Prelude Operator
-* Elastic
-* A lot of Python
+Security Research Engineer @ Elastic
 
 Telegram: https://t.me/w0rk3r
 
