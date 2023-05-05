@@ -1,4 +1,4 @@
-Security Research Engineer @ Elastic
+Senior Security Research Engineer @ Elastic
 
 Telegram: https://t.me/w0rk3r
 
